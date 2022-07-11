@@ -59,3 +59,32 @@ section{
     text-align: left;
     margin-bottom: 50px;
 }
+
+.heading-third-banner{
+    text-align: center;
+}
+.heading-third-banner h1{
+    font-size: 50px;
+}
+
+.flexible-container-parent{
+    display: flex;
+    margin: 50px 300px;
+
+}
+.flexible-container{
+    width: 50%;
+    display: flex;
+    background-color: #FEF4F5;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.para{
+    padding-left: 20px;
+}
+
+.img{
+    margin-top: 20px;
+}
