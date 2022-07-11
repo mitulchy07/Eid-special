@@ -88,3 +88,57 @@ section{
 .img{
     margin-top: 20px;
 }
+.one-thrid{
+    display: flex;
+    margin: 100px 300px;
+}
+.one{
+    width: 33.3%;
+}
+
+.zakat{
+    border: 1px solid gray;
+    border-radius: 13px;
+    margin: 10px;
+    padding-bottom: 30px;
+}
+.zakat img{
+    width: 100%;  
+}
+
+.zakat h2 {
+    padding-left: 20px;
+}
+
+.zakat p{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+.zakat a{
+    color: #EF233C;
+    padding-left: 20px;
+    
+}
+
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    margin-bottom: 0%;
+    padding: 30px;
+}
+
+
+
+footer h1{
+    color: #EF233C;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+
+footer p{
+    color: #FFFFFF;
+    
+}
